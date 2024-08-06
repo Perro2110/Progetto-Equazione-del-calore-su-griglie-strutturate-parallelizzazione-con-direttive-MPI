@@ -1,2 +1,3 @@
 # PROGETTO-ALGORITMI-PER-IL-CALCOLO-PARALLELO
-Privato perche richiesta la consegna per scopi accademici, in caso di interesse fare richiesta in privato. 
+---
+in caso si volesse prendere "spunto" si richiede se possibile di contattarmi. :-)
