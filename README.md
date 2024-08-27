@@ -1,4 +1,4 @@
-# Progetto: Equazione del calore su griglie strutturate, parallelizzazione con direttive MPI.
+# Algoritmi per il calcolo parallelo: Progetto: Equazione del calore su griglie strutturate, parallelizzazione con direttive MPI.
 
 Scrittura, applicazione e parallelizzazione (con direttive MPI) di un programma riguardante l'equazione del calore su griglie strutturate.
 Considerando l'equazione che descrive la diffusione del calore.
