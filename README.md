@@ -6,3 +6,4 @@ Seguita da breve Relazione riguardo la sperimentazione del tutto.
 
 ---
  *In caso si volesse prendere "spunto" si richiede se possibile di contattarmi :-)*
+ .<div align="right"> *Codice scritto da: Marco Perrotta, Lorenzo Negrini*
